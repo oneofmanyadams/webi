@@ -1,0 +1,50 @@
+* {
+  font-family: "Andale Mono", "Lucida Console", Monaco, "Courier New", monospace;
+  color: #88DDEE;
+  border-color: #22f;
+  margin: 0;
+  padding: 0;
+}
+
+html {
+}
+
+body {
+  background-color: #112244;
+}
+
+#holder {
+  margin: 0px 40px 0px 40px;
+}
+
+#header {
+}
+
+#content {
+}
+
+#footer {
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: #88DDEE;
+  margin-top:10px;
+  margin-bottom:0px;
+}
+
+h1 {
+  font-size: 60px;
+}
+
+h2, h3, h4 {
+  font-size: 36px;
+}
+
+h5, h6 {
+  font-size: 20px;  
+}
+
+p {
+  font-size: 16px;
+  color: #BBDDEE;
+}
