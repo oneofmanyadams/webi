@@ -1,3 +1,6 @@
+package webi
+
+var template_string = `
 <!DOCTYPE html>
 <html>
 	<head>
@@ -17,4 +20,4 @@
 			</div>
 		</div>
 	</body>
-</html>
+</html>`

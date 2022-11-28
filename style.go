@@ -1,9 +1,12 @@
+package webi
+
+var style_string = `
 * {
   font-family: "Andale Mono", "Lucida Console", Monaco, "Courier New", monospace;
   color: #88DDEE;
   border-color: #22f;
-  margin: 0px;
-  padding: 0px;
+  margin: 0;
+  padding: 0;
 }
 
 html {
@@ -47,4 +50,4 @@ h5, h6 {
 p {
   font-size: 16px;
   color: #BBDDEE;
-}
+}`
